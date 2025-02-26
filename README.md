@@ -1,2 +1,2 @@
-# Aulas-da-faculdade-1-e-2
+# Aulas-da-faculdade-1
 huahuahuahuahuahuahuahuahuahuahuahua
