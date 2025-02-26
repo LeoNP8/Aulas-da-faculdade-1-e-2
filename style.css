@@ -1,0 +1,35 @@
+body {
+    background-color: #99cce4;
+    margin: 0px auto;
+}   
+
+img {
+    width: 320px;
+    height: 180px;
+    border-width: 5px;
+    margin: 30px 15px;
+    padding: 20px 15px;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+    text-align: left;
+    padding: 20px;
+}
+
+.amarelo{
+  color: yellow;
+}
+
+.vermelho{
+  color: red;
+}
+
+marquee{
+  font-size: 30px;
+  color: white;
+}
+
